@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.vertical-timeline::before{
+    background: yellowgreen !important;
+} */
+ html{
+    scroll-padding-top:80px;
+    scroll-behavior: smooth;
+    font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+ }
