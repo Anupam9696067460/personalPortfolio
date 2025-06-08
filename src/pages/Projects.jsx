@@ -5,7 +5,7 @@ import TodoList from "../assets/project_image/TodoList.png";
 import GatherUp from "../assets/project_image/GatherUp.png";
 import WeatherApp from "../assets/project_image/WeatherApp.png";
 import QrCodeGenerator from "../assets/project_image/QrCodeGenerator.png";
-import portfolio from "../assets/project_image/Portfolio.png";
+// import portfolio from "../assets/project_image/PortFolio.png";
 
 const Projects = () => {
   return (
@@ -32,12 +32,12 @@ by Vite for fast build and development."
         explore=""
         github="https://github.com/Anupam9696067460/todo-app"
         />
-        <Card image={portfolio}
+        {/* <Card image={portfolio}
       name="Porfolio Website"
        description="A personal portfolio website using React and Tailwind, showcasing my projects, skills & achievements with professional interface that show my ability to build responsive web designs."
         explore=""
         github="https://github.com/Anupam9696067460/personalPortfolio"
-        />
+        /> */}
     <Card image={WeatherApp}
       name="Weather App"
        description="Developed a responsive weather forecasting web app using OpenWeatherMap API to fetch real-time weather
