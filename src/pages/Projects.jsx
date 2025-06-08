@@ -35,8 +35,8 @@ by Vite for fast build and development."
         <Card image={portfolio}
       name="Porfolio Website"
        description="A personal portfolio website using React and Tailwind, showcasing my projects, skills & achievements with professional interface that show my ability to build responsive web designs."
-        explore="https://adityaportfolionew.netlify.app/"
-        github="https://github.com/AnupamSingh/Portfolio"
+        explore=""
+        github="https://github.com/Anupam9696067460/personalPortfolio"
         />
     <Card image={WeatherApp}
       name="Weather App"

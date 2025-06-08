@@ -7,7 +7,6 @@ import Contact from "./pages/Contact";
 import Skills from "./pages/Skills";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Footer from "./components/Footer";
-
 // import Layout from "./pages/Layout";
 // import { RouterProvider } from "react-router-dom";
 // import { myRoutes } from "./Routes";

@@ -63,7 +63,7 @@ const Experience = () => {
 <h3 className="vertical-timeline-element-title text-center font-bold">GRADUATION</h3>
     <h4 className="vertical-timeline-element-subtitle text-center font-medium">Kamla Nehru Institute of Physical & Social Sciences,Sultanpur, Uttar Pradesh</h4>
     <p className='text-center font-light'>
-    I am pursuing my B.Tech degree under AKTU and am expected to graduate in 2025. Throughout my academic 
+    I completed my B.Tech degree under AKTU and am expected to graduate in 2025. Throughout my academic 
     journey, I have earned several awards and certificates in recognition of my dedication and achievements.
     </p>
    
